@@ -1,8 +1,8 @@
 ﻿using System;
 
-namespace PrimeiroProjeto
+namespace Imc
 {
-    internal class Program
+    internal class Imc
     {
         static void Main(string[] args)
         {
